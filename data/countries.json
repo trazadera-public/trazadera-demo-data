@@ -1,0 +1,3301 @@
+[
+    {
+      "name": "belarus",
+      "iso2": "BY",
+      "iso3": "BLR",
+      "code": 112,
+      "phoneCodes": [
+        "375"
+      ],
+      "langCodes": [
+        "be",
+        "ru"
+      ],
+      "domain": "by"
+    },
+    {
+      "name": "taiwan",
+      "iso2": "TW",
+      "iso3": "TWN",
+      "code": 158,
+      "phoneCodes": [
+        "886"
+      ],
+      "langCodes": [
+        "zh-min-nan",
+        "zh"
+      ],
+      "domain": "tw"
+    },
+    {
+      "name": "japan",
+      "iso2": "JP",
+      "iso3": "JPN",
+      "code": 392,
+      "phoneCodes": [
+        "81"
+      ],
+      "langCodes": [
+        "ja"
+      ],
+      "domain": "jp"
+    },
+    {
+      "name": "syrian arab republic",
+      "iso2": "SY",
+      "iso3": "SYR",
+      "code": 760,
+      "phoneCodes": [
+        "963"
+      ],
+      "langCodes": [
+        "ar"
+      ],
+      "domain": "sy"
+    },
+    {
+      "name": "bolivia (plurinational state of)",
+      "iso2": "BO",
+      "iso3": "BOL",
+      "code": 68,
+      "phoneCodes": [
+        "591"
+      ],
+      "langCodes": [
+        "qu",
+        "ay",
+        "es"
+      ],
+      "domain": "bo"
+    },
+    {
+      "name": "pitcairn",
+      "iso2": "PN",
+      "iso3": "PCN",
+      "code": 612,
+      "phoneCodes": [
+        "64"
+      ],
+      "langCodes": [
+        "en"
+      ],
+      "domain": null
+    },
+    {
+      "name": "south africa",
+      "iso2": "ZA",
+      "iso3": "ZAF",
+      "code": 710,
+      "phoneCodes": [
+        "27"
+      ],
+      "langCodes": [
+        "xh",
+        "af",
+        "en",
+        "zu"
+      ],
+      "domain": "za"
+    },
+    {
+      "name": "guinea",
+      "iso2": "GN",
+      "iso3": "GIN",
+      "code": 324,
+      "phoneCodes": [
+        "224"
+      ],
+      "langCodes": [
+        "fr"
+      ],
+      "domain": "gn"
+    },
+    {
+      "name": "korea (the republic of)",
+      "iso2": "KR",
+      "iso3": "KOR",
+      "code": 410,
+      "phoneCodes": [
+        "82"
+      ],
+      "langCodes": [
+        "ko"
+      ],
+      "domain": "kr"
+    },
+    {
+      "name": "saint kitts and nevis",
+      "iso2": "KN",
+      "iso3": "KNA",
+      "code": 659,
+      "phoneCodes": [
+        "1869"
+      ],
+      "langCodes": [
+        "en"
+      ],
+      "domain": "kn"
+    },
+    {
+      "name": "san marino",
+      "iso2": "SM",
+      "iso3": "SMR",
+      "code": 674,
+      "phoneCodes": [
+        "378"
+      ],
+      "langCodes": [
+        "it"
+      ],
+      "domain": "sm"
+    },
+    {
+      "name": "estonia",
+      "iso2": "EE",
+      "iso3": "EST",
+      "code": 233,
+      "phoneCodes": [
+        "372"
+      ],
+      "langCodes": [
+        "et"
+      ],
+      "domain": "ee"
+    },
+    {
+      "name": "cuba",
+      "iso2": "CU",
+      "iso3": "CUB",
+      "code": 192,
+      "phoneCodes": [
+        "53"
+      ],
+      "langCodes": [
+        "es"
+      ],
+      "domain": "cu"
+    },
+    {
+      "name": "mauritius",
+      "iso2": "MU",
+      "iso3": "MUS",
+      "code": 480,
+      "phoneCodes": [
+        "230"
+      ],
+      "langCodes": [
+        "en",
+        "fr",
+        "mfe"
+      ],
+      "domain": "mu"
+    },
+    {
+      "name": "mali",
+      "iso2": "ML",
+      "iso3": "MLI",
+      "code": 466,
+      "phoneCodes": [
+        "223"
+      ],
+      "langCodes": [
+        "bm",
+        "fr"
+      ],
+      "domain": "ml"
+    },
+    {
+      "name": "switzerland",
+      "iso2": "CH",
+      "iso3": "CHE",
+      "code": 756,
+      "phoneCodes": [
+        "41"
+      ],
+      "langCodes": [
+        "de",
+        "it",
+        "rm",
+        "fr"
+      ],
+      "domain": "ch"
+    },
+    {
+      "name": "hong kong",
+      "iso2": "HK",
+      "iso3": "HKG",
+      "code": 344,
+      "phoneCodes": [
+        "852"
+      ],
+      "langCodes": null,
+      "domain": "hk"
+    },
+    {
+      "name": "armenia",
+      "iso2": "AM",
+      "iso3": "ARM",
+      "code": 51,
+      "phoneCodes": [
+        "374"
+      ],
+      "langCodes": [
+        "hy"
+      ],
+      "domain": "am"
+    },
+    {
+      "name": "australia",
+      "iso2": "AU",
+      "iso3": "AUS",
+      "code": 36,
+      "phoneCodes": [
+        "61"
+      ],
+      "langCodes": [
+        "en"
+      ],
+      "domain": "au"
+    },
+    {
+      "name": "aruba",
+      "iso2": "AW",
+      "iso3": "ABW",
+      "code": 533,
+      "phoneCodes": [
+        "297"
+      ],
+      "langCodes": [
+        "nl",
+        "pap"
+      ],
+      "domain": "aw"
+    },
+    {
+      "name": "british indian ocean territory (the)",
+      "iso2": "IO",
+      "iso3": "IOT",
+      "code": 86,
+      "phoneCodes": [
+        "246"
+      ],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "solomon islands",
+      "iso2": "SB",
+      "iso3": "SLB",
+      "code": 90,
+      "phoneCodes": [
+        "677"
+      ],
+      "langCodes": [
+        "en",
+        "pis"
+      ],
+      "domain": "sb"
+    },
+    {
+      "name": "holy see (the)",
+      "iso2": "VA",
+      "iso3": "VAT",
+      "code": 336,
+      "phoneCodes": [
+        "379"
+      ],
+      "langCodes": [
+        "la"
+      ],
+      "domain": null
+    },
+    {
+      "name": "turkey",
+      "iso2": "TR",
+      "iso3": "TUR",
+      "code": 792,
+      "phoneCodes": [
+        "90"
+      ],
+      "langCodes": [
+        "tr"
+      ],
+      "domain": "tr"
+    },
+    {
+      "name": "ukraine",
+      "iso2": "UA",
+      "iso3": "UKR",
+      "code": 804,
+      "phoneCodes": [
+        "380"
+      ],
+      "langCodes": [
+        "uk"
+      ],
+      "domain": "ua"
+    },
+    {
+      "name": "austria",
+      "iso2": "AT",
+      "iso3": "AUT",
+      "code": 40,
+      "phoneCodes": [
+        "43"
+      ],
+      "langCodes": [
+        "de"
+      ],
+      "domain": "at"
+    },
+    {
+      "name": "western sahara",
+      "iso2": "EH",
+      "iso3": "ESH",
+      "code": 732,
+      "phoneCodes": [
+        "212"
+      ],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "turks and caicos islands (the)",
+      "iso2": "TC",
+      "iso3": "TCA",
+      "code": 796,
+      "phoneCodes": [
+        "1649"
+      ],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "cambodia",
+      "iso2": "KH",
+      "iso3": "KHM",
+      "code": 116,
+      "phoneCodes": [
+        "855"
+      ],
+      "langCodes": [
+        "km"
+      ],
+      "domain": "kh"
+    },
+    {
+      "name": "monaco",
+      "iso2": "MC",
+      "iso3": "MCO",
+      "code": 492,
+      "phoneCodes": [
+        "377"
+      ],
+      "langCodes": [
+        "fr"
+      ],
+      "domain": "mc"
+    },
+    {
+      "name": "hungary",
+      "iso2": "HU",
+      "iso3": "HUN",
+      "code": 348,
+      "phoneCodes": [
+        "36"
+      ],
+      "langCodes": [
+        "hu"
+      ],
+      "domain": "hu"
+    },
+    {
+      "name": "kenya",
+      "iso2": "KE",
+      "iso3": "KEN",
+      "code": 404,
+      "phoneCodes": [
+        "254"
+      ],
+      "langCodes": [
+        "sw",
+        "en"
+      ],
+      "domain": "ke"
+    },
+    {
+      "name": "greenland",
+      "iso2": "GL",
+      "iso3": "GRL",
+      "code": 304,
+      "phoneCodes": [
+        "299"
+      ],
+      "langCodes": null,
+      "domain": "gl"
+    },
+    {
+      "name": "greece",
+      "iso2": "GR",
+      "iso3": "GRC",
+      "code": 300,
+      "phoneCodes": [
+        "30"
+      ],
+      "langCodes": [
+        "el"
+      ],
+      "domain": "gr"
+    },
+    {
+      "name": "paraguay",
+      "iso2": "PY",
+      "iso3": "PRY",
+      "code": 600,
+      "phoneCodes": [
+        "595"
+      ],
+      "langCodes": [
+        "gn",
+        "es"
+      ],
+      "domain": "py"
+    },
+    {
+      "name": "palau",
+      "iso2": "PW",
+      "iso3": "PLW",
+      "code": 585,
+      "phoneCodes": [
+        "680"
+      ],
+      "langCodes": [
+        "pau",
+        "en"
+      ],
+      "domain": "pw"
+    },
+    {
+      "name": "vanuatu",
+      "iso2": "VU",
+      "iso3": "VUT",
+      "code": 548,
+      "phoneCodes": [
+        "678"
+      ],
+      "langCodes": [
+        "bi",
+        "en",
+        "fr"
+      ],
+      "domain": null
+    },
+    {
+      "name": "cyprus",
+      "iso2": "CY",
+      "iso3": "CYP",
+      "code": 196,
+      "phoneCodes": [
+        "357"
+      ],
+      "langCodes": [
+        "el",
+        "tr"
+      ],
+      "domain": "cy"
+    },
+    {
+      "name": "colombia",
+      "iso2": "CO",
+      "iso3": "COL",
+      "code": 170,
+      "phoneCodes": [
+        "57"
+      ],
+      "langCodes": [
+        "es"
+      ],
+      "domain": "co"
+    },
+    {
+      "name": "dominican republic (the)",
+      "iso2": "DO",
+      "iso3": "DOM",
+      "code": 214,
+      "phoneCodes": [
+        "1809",
+        "1829",
+        "1849"
+      ],
+      "langCodes": [
+        "es"
+      ],
+      "domain": "do"
+    },
+    {
+      "name": "south georgia and the south sandwich islands",
+      "iso2": "GS",
+      "iso3": "SGS",
+      "code": 239,
+      "phoneCodes": [],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "azerbaijan",
+      "iso2": "AZ",
+      "iso3": "AZE",
+      "code": 31,
+      "phoneCodes": [
+        "994"
+      ],
+      "langCodes": [
+        "az"
+      ],
+      "domain": "az"
+    },
+    {
+      "name": "saint helena, ascension and tristan da cunha",
+      "iso2": "SH",
+      "iso3": "SHN",
+      "code": 654,
+      "phoneCodes": [
+        "290"
+      ],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "french southern territories (the)",
+      "iso2": "TF",
+      "iso3": "ATF",
+      "code": 260,
+      "phoneCodes": [],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "congo (the)",
+      "iso2": "CG",
+      "iso3": "COG",
+      "code": 178,
+      "phoneCodes": [
+        "242"
+      ],
+      "langCodes": [
+        "fr"
+      ],
+      "domain": "cg"
+    },
+    {
+      "name": "rwanda",
+      "iso2": "RW",
+      "iso3": "RWA",
+      "code": 646,
+      "phoneCodes": [
+        "250"
+      ],
+      "langCodes": [
+        "rw",
+        "en",
+        "fr"
+      ],
+      "domain": "rw"
+    },
+    {
+      "name": "libya",
+      "iso2": "LY",
+      "iso3": "LBY",
+      "code": 434,
+      "phoneCodes": [
+        "218"
+      ],
+      "langCodes": [
+        "ar"
+      ],
+      "domain": "ly"
+    },
+    {
+      "name": "burkina faso",
+      "iso2": "BF",
+      "iso3": "BFA",
+      "code": 854,
+      "phoneCodes": [
+        "226"
+      ],
+      "langCodes": [
+        "mos",
+        "fr"
+      ],
+      "domain": "bf"
+    },
+    {
+      "name": "guernsey",
+      "iso2": "GG",
+      "iso3": "GGY",
+      "code": 831,
+      "phoneCodes": [
+        "441481"
+      ],
+      "langCodes": null,
+      "domain": "gg"
+    },
+    {
+      "name": "afghanistan",
+      "iso2": "AF",
+      "iso3": "AFG",
+      "code": 4,
+      "phoneCodes": [
+        "93"
+      ],
+      "langCodes": [
+        "ps",
+        "fa-AF"
+      ],
+      "domain": "af"
+    },
+    {
+      "name": "norway",
+      "iso2": "NO",
+      "iso3": "NOR",
+      "code": 578,
+      "phoneCodes": [
+        "47"
+      ],
+      "langCodes": [
+        "no"
+      ],
+      "domain": "no"
+    },
+    {
+      "name": "kiribati",
+      "iso2": "KI",
+      "iso3": "KIR",
+      "code": 296,
+      "phoneCodes": [
+        "686"
+      ],
+      "langCodes": [
+        "en",
+        "gil"
+      ],
+      "domain": "ki"
+    },
+    {
+      "name": "dominica",
+      "iso2": "DM",
+      "iso3": "DMA",
+      "code": 212,
+      "phoneCodes": [
+        "1767"
+      ],
+      "langCodes": [
+        "en"
+      ],
+      "domain": "dm"
+    },
+    {
+      "name": "bulgaria",
+      "iso2": "BG",
+      "iso3": "BGR",
+      "code": 100,
+      "phoneCodes": [
+        "359"
+      ],
+      "langCodes": [
+        "bg"
+      ],
+      "domain": "bg"
+    },
+    {
+      "name": "micronesia (federated states of)",
+      "iso2": "FM",
+      "iso3": "FSM",
+      "code": 583,
+      "phoneCodes": [
+        "691"
+      ],
+      "langCodes": [
+        "chk",
+        "en"
+      ],
+      "domain": "fm"
+    },
+    {
+      "name": "bahrain",
+      "iso2": "BH",
+      "iso3": "BHR",
+      "code": 48,
+      "phoneCodes": [
+        "973"
+      ],
+      "langCodes": [
+        "ar"
+      ],
+      "domain": "bh"
+    },
+    {
+      "name": "guatemala",
+      "iso2": "GT",
+      "iso3": "GTM",
+      "code": 320,
+      "phoneCodes": [
+        "502"
+      ],
+      "langCodes": [
+        "es"
+      ],
+      "domain": "gt"
+    },
+    {
+      "name": "ghana",
+      "iso2": "GH",
+      "iso3": "GHA",
+      "code": 288,
+      "phoneCodes": [
+        "233"
+      ],
+      "langCodes": [
+        "en",
+        "ak"
+      ],
+      "domain": "gh"
+    },
+    {
+      "name": "somalia",
+      "iso2": "SO",
+      "iso3": "SOM",
+      "code": 706,
+      "phoneCodes": [
+        "252"
+      ],
+      "langCodes": [
+        "ar",
+        "so"
+      ],
+      "domain": "so"
+    },
+    {
+      "name": "jamaica",
+      "iso2": "JM",
+      "iso3": "JAM",
+      "code": 388,
+      "phoneCodes": [
+        "1876"
+      ],
+      "langCodes": [
+        "en"
+      ],
+      "domain": "jm"
+    },
+    {
+      "name": "togo",
+      "iso2": "TG",
+      "iso3": "TGO",
+      "code": 768,
+      "phoneCodes": [
+        "228"
+      ],
+      "langCodes": [
+        "ee",
+        "fr"
+      ],
+      "domain": "tg"
+    },
+    {
+      "name": "liechtenstein",
+      "iso2": "LI",
+      "iso3": "LIE",
+      "code": 438,
+      "phoneCodes": [
+        "423"
+      ],
+      "langCodes": [
+        "de"
+      ],
+      "domain": "li"
+    },
+    {
+      "name": "philippines (the)",
+      "iso2": "PH",
+      "iso3": "PHL",
+      "code": 608,
+      "phoneCodes": [
+        "63"
+      ],
+      "langCodes": [
+        "fil",
+        "en"
+      ],
+      "domain": "ph"
+    },
+    {
+      "name": "thailand",
+      "iso2": "TH",
+      "iso3": "THA",
+      "code": 764,
+      "phoneCodes": [
+        "66"
+      ],
+      "langCodes": [
+        "th"
+      ],
+      "domain": "th"
+    },
+    {
+      "name": "france",
+      "iso2": "FR",
+      "iso3": "FRA",
+      "code": 250,
+      "phoneCodes": [
+        "33"
+      ],
+      "langCodes": [
+        "fr"
+      ],
+      "domain": "fr"
+    },
+    {
+      "name": "serbia",
+      "iso2": "RS",
+      "iso3": "SRB",
+      "code": 688,
+      "phoneCodes": [
+        "381"
+      ],
+      "langCodes": [
+        "sr"
+      ],
+      "domain": "rs"
+    },
+    {
+      "name": "bahamas (the)",
+      "iso2": "BS",
+      "iso3": "BHS",
+      "code": 44,
+      "phoneCodes": [
+        "1242"
+      ],
+      "langCodes": [
+        "en"
+      ],
+      "domain": "bs"
+    },
+    {
+      "name": "comoros (the)",
+      "iso2": "KM",
+      "iso3": "COM",
+      "code": 174,
+      "phoneCodes": [
+        "269"
+      ],
+      "langCodes": [
+        "ar",
+        "fr",
+        "swb"
+      ],
+      "domain": "km"
+    },
+    {
+      "name": "bouvet island",
+      "iso2": "BV",
+      "iso3": "BVT",
+      "code": 74,
+      "phoneCodes": [],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "montserrat",
+      "iso2": "MS",
+      "iso3": "MSR",
+      "code": 500,
+      "phoneCodes": [
+        "1664"
+      ],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "senegal",
+      "iso2": "SN",
+      "iso3": "SEN",
+      "code": 686,
+      "phoneCodes": [
+        "221"
+      ],
+      "langCodes": [
+        "wo",
+        "fr"
+      ],
+      "domain": "sn"
+    },
+    {
+      "name": "northern mariana islands (the)",
+      "iso2": "MP",
+      "iso3": "MNP",
+      "code": 580,
+      "phoneCodes": [
+        "1670"
+      ],
+      "langCodes": [
+        "ch",
+        "en"
+      ],
+      "domain": null
+    },
+    {
+      "name": "zambia",
+      "iso2": "ZM",
+      "iso3": "ZMB",
+      "code": 894,
+      "phoneCodes": [
+        "260"
+      ],
+      "langCodes": [
+        "en",
+        "bem"
+      ],
+      "domain": "zm"
+    },
+    {
+      "name": "namibia",
+      "iso2": "NA",
+      "iso3": "NAM",
+      "code": 516,
+      "phoneCodes": [
+        "264"
+      ],
+      "langCodes": [
+        "af",
+        "en"
+      ],
+      "domain": "na"
+    },
+    {
+      "name": "saint pierre and miquelon",
+      "iso2": "PM",
+      "iso3": "SPM",
+      "code": 666,
+      "phoneCodes": [
+        "508"
+      ],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "curaçao",
+      "iso2": "CW",
+      "iso3": "CUW",
+      "code": 531,
+      "phoneCodes": [
+        "599"
+      ],
+      "langCodes": [
+        "nl",
+        "pap"
+      ],
+      "domain": null
+    },
+    {
+      "name": "sint maarten (dutch part)",
+      "iso2": "SX",
+      "iso3": "SXM",
+      "code": 534,
+      "phoneCodes": [
+        "1721"
+      ],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "canada",
+      "iso2": "CA",
+      "iso3": "CAN",
+      "code": 124,
+      "phoneCodes": [
+        "1"
+      ],
+      "langCodes": [
+        "en",
+        "fr"
+      ],
+      "domain": "ca"
+    },
+    {
+      "name": "french polynesia",
+      "iso2": "PF",
+      "iso3": "PYF",
+      "code": 258,
+      "phoneCodes": [
+        "689"
+      ],
+      "langCodes": [
+        "ty",
+        "fr"
+      ],
+      "domain": null
+    },
+    {
+      "name": "honduras",
+      "iso2": "HN",
+      "iso3": "HND",
+      "code": 340,
+      "phoneCodes": [
+        "504"
+      ],
+      "langCodes": [
+        "es"
+      ],
+      "domain": "hn"
+    },
+    {
+      "name": "réunion",
+      "iso2": "RE",
+      "iso3": "REU",
+      "code": 638,
+      "phoneCodes": [
+        "262"
+      ],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "maldives",
+      "iso2": "MV",
+      "iso3": "MDV",
+      "code": 462,
+      "phoneCodes": [
+        "960"
+      ],
+      "langCodes": [
+        "dv"
+      ],
+      "domain": "mv"
+    },
+    {
+      "name": "chile",
+      "iso2": "CL",
+      "iso3": "CHL",
+      "code": 152,
+      "phoneCodes": [
+        "56"
+      ],
+      "langCodes": [
+        "es"
+      ],
+      "domain": "cl"
+    },
+    {
+      "name": "oman",
+      "iso2": "OM",
+      "iso3": "OMN",
+      "code": 512,
+      "phoneCodes": [
+        "968"
+      ],
+      "langCodes": [
+        "ar"
+      ],
+      "domain": "om"
+    },
+    {
+      "name": "timor-leste",
+      "iso2": "TL",
+      "iso3": "TLS",
+      "code": 626,
+      "phoneCodes": [
+        "670"
+      ],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "brazil",
+      "iso2": "BR",
+      "iso3": "BRA",
+      "code": 76,
+      "phoneCodes": [
+        "55"
+      ],
+      "langCodes": [
+        "pt"
+      ],
+      "domain": "br"
+    },
+    {
+      "name": "netherlands antilles (the)",
+      "iso2": "AN",
+      "iso3": "ANT",
+      "code": 530,
+      "phoneCodes": [
+        "599"
+      ],
+      "langCodes": null,
+      "domain": "an"
+    },
+    {
+      "name": "guyana",
+      "iso2": "GY",
+      "iso3": "GUY",
+      "code": 328,
+      "phoneCodes": [
+        "592"
+      ],
+      "langCodes": [
+        "en"
+      ],
+      "domain": "gy"
+    },
+    {
+      "name": "lesotho",
+      "iso2": "LS",
+      "iso3": "LSO",
+      "code": 426,
+      "phoneCodes": [
+        "266"
+      ],
+      "langCodes": [
+        "st",
+        "en"
+      ],
+      "domain": "ls"
+    },
+    {
+      "name": "cayman islands (the)",
+      "iso2": "KY",
+      "iso3": "CYM",
+      "code": 136,
+      "phoneCodes": [
+        "1345"
+      ],
+      "langCodes": null,
+      "domain": "ky"
+    },
+    {
+      "name": "germany",
+      "iso2": "DE",
+      "iso3": "DEU",
+      "code": 276,
+      "phoneCodes": [
+        "49"
+      ],
+      "langCodes": [
+        "de"
+      ],
+      "domain": "de"
+    },
+    {
+      "name": "republic of north macedonia",
+      "iso2": "MK",
+      "iso3": "MKD",
+      "code": 807,
+      "phoneCodes": [
+        "389"
+      ],
+      "langCodes": [
+        "mk"
+      ],
+      "domain": "mk"
+    },
+    {
+      "name": "india",
+      "iso2": "IN",
+      "iso3": "IND",
+      "code": 356,
+      "phoneCodes": [
+        "91"
+      ],
+      "langCodes": [
+        "hi",
+        "kn",
+        "or",
+        "mr",
+        "sat",
+        "ks",
+        "bn",
+        "ta",
+        "gu",
+        "te",
+        "pa",
+        "as",
+        "mai",
+        "ne",
+        "ur",
+        "ml"
+      ],
+      "domain": "in"
+    },
+    {
+      "name": "malaysia",
+      "iso2": "MY",
+      "iso3": "MYS",
+      "code": 458,
+      "phoneCodes": [
+        "60"
+      ],
+      "langCodes": [
+        "ms"
+      ],
+      "domain": "my"
+    },
+    {
+      "name": "peru",
+      "iso2": "PE",
+      "iso3": "PER",
+      "code": 604,
+      "phoneCodes": [
+        "51"
+      ],
+      "langCodes": [
+        "qu",
+        "ay",
+        "es"
+      ],
+      "domain": "pe"
+    },
+    {
+      "name": "trinidad and tobago",
+      "iso2": "TT",
+      "iso3": "TTO",
+      "code": 780,
+      "phoneCodes": [
+        "1868"
+      ],
+      "langCodes": [
+        "en"
+      ],
+      "domain": "tt"
+    },
+    {
+      "name": "marshall islands (the)",
+      "iso2": "MH",
+      "iso3": "MHL",
+      "code": 584,
+      "phoneCodes": [
+        "692"
+      ],
+      "langCodes": [
+        "en",
+        "mh"
+      ],
+      "domain": "mh"
+    },
+    {
+      "name": "denmark",
+      "iso2": "DK",
+      "iso3": "DNK",
+      "code": 208,
+      "phoneCodes": [
+        "45"
+      ],
+      "langCodes": [
+        "da"
+      ],
+      "domain": "dk"
+    },
+    {
+      "name": "sri lanka",
+      "iso2": "LK",
+      "iso3": "LKA",
+      "code": 144,
+      "phoneCodes": [
+        "94"
+      ],
+      "langCodes": [
+        "si",
+        "ta"
+      ],
+      "domain": "lk"
+    },
+    {
+      "name": "jersey",
+      "iso2": "JE",
+      "iso3": "JEY",
+      "code": 832,
+      "phoneCodes": [
+        "441534"
+      ],
+      "langCodes": null,
+      "domain": "je"
+    },
+    {
+      "name": "belize",
+      "iso2": "BZ",
+      "iso3": "BLZ",
+      "code": 84,
+      "phoneCodes": [
+        "501"
+      ],
+      "langCodes": [
+        "en",
+        "es"
+      ],
+      "domain": "bz"
+    },
+    {
+      "name": "nauru",
+      "iso2": "NR",
+      "iso3": "NRU",
+      "code": 520,
+      "phoneCodes": [
+        "674"
+      ],
+      "langCodes": [
+        "na",
+        "en"
+      ],
+      "domain": "nr"
+    },
+    {
+      "name": "kuwait",
+      "iso2": "KW",
+      "iso3": "KWT",
+      "code": 414,
+      "phoneCodes": [
+        "965"
+      ],
+      "langCodes": [
+        "ar"
+      ],
+      "domain": "kw"
+    },
+    {
+      "name": "slovenia",
+      "iso2": "SI",
+      "iso3": "SVN",
+      "code": 705,
+      "phoneCodes": [
+        "386"
+      ],
+      "langCodes": [
+        "sl"
+      ],
+      "domain": "si"
+    },
+    {
+      "name": "haiti",
+      "iso2": "HT",
+      "iso3": "HTI",
+      "code": 332,
+      "phoneCodes": [
+        "509"
+      ],
+      "langCodes": [
+        "fr",
+        "ht"
+      ],
+      "domain": "ht"
+    },
+    {
+      "name": "zimbabwe",
+      "iso2": "ZW",
+      "iso3": "ZWE",
+      "code": 716,
+      "phoneCodes": [
+        "263"
+      ],
+      "langCodes": null,
+      "domain": "zw"
+    },
+    {
+      "name": "central african republic (the)",
+      "iso2": "CF",
+      "iso3": "CAF",
+      "code": 140,
+      "phoneCodes": [
+        "236"
+      ],
+      "langCodes": [
+        "sg",
+        "fr"
+      ],
+      "domain": "cf"
+    },
+    {
+      "name": "el salvador",
+      "iso2": "SV",
+      "iso3": "SLV",
+      "code": 222,
+      "phoneCodes": [
+        "503"
+      ],
+      "langCodes": [
+        "es"
+      ],
+      "domain": "sv"
+    },
+    {
+      "name": "united states of america (the)",
+      "iso2": "US",
+      "iso3": "USA",
+      "code": 840,
+      "phoneCodes": [
+        "1"
+      ],
+      "langCodes": [
+        "en",
+        "es"
+      ],
+      "domain": "us"
+    },
+    {
+      "name": "saint lucia",
+      "iso2": "LC",
+      "iso3": "LCA",
+      "code": 662,
+      "phoneCodes": [
+        "1758"
+      ],
+      "langCodes": [
+        "en"
+      ],
+      "domain": "lc"
+    },
+    {
+      "name": "cook islands (the)",
+      "iso2": "CK",
+      "iso3": "COK",
+      "code": 184,
+      "phoneCodes": [
+        "682"
+      ],
+      "langCodes": [
+        "rar",
+        "en"
+      ],
+      "domain": null
+    },
+    {
+      "name": "china",
+      "iso2": "CN",
+      "iso3": "CHN",
+      "code": 156,
+      "phoneCodes": [
+        "86"
+      ],
+      "langCodes": [
+        "yue",
+        "zh"
+      ],
+      "domain": "cn"
+    },
+    {
+      "name": "antigua and barbuda",
+      "iso2": "AG",
+      "iso3": "ATG",
+      "code": 28,
+      "phoneCodes": [
+        "1268"
+      ],
+      "langCodes": [
+        "en"
+      ],
+      "domain": "ag"
+    },
+    {
+      "name": "israel",
+      "iso2": "IL",
+      "iso3": "ISR",
+      "code": 376,
+      "phoneCodes": [
+        "972"
+      ],
+      "langCodes": [
+        "ar",
+        "he"
+      ],
+      "domain": "il"
+    },
+    {
+      "name": "bangladesh",
+      "iso2": "BD",
+      "iso3": "BGD",
+      "code": 50,
+      "phoneCodes": [
+        "880"
+      ],
+      "langCodes": [
+        "bn"
+      ],
+      "domain": "bd"
+    },
+    {
+      "name": "czechia",
+      "iso2": "CZ",
+      "iso3": "CZE",
+      "code": 203,
+      "phoneCodes": [
+        "420"
+      ],
+      "langCodes": [
+        "cs"
+      ],
+      "domain": "cz"
+    },
+    {
+      "name": "venezuela (bolivarian republic of)",
+      "iso2": "VE",
+      "iso3": "VEN",
+      "code": 862,
+      "phoneCodes": [
+        "58"
+      ],
+      "langCodes": [
+        "es"
+      ],
+      "domain": "ve"
+    },
+    {
+      "name": "ireland",
+      "iso2": "IE",
+      "iso3": "IRL",
+      "code": 372,
+      "phoneCodes": [
+        "353"
+      ],
+      "langCodes": [
+        "en",
+        "ga"
+      ],
+      "domain": "ie"
+    },
+    {
+      "name": "albania",
+      "iso2": "AL",
+      "iso3": "ALB",
+      "code": 8,
+      "phoneCodes": [
+        "355"
+      ],
+      "langCodes": [
+        "sq"
+      ],
+      "domain": "al"
+    },
+    {
+      "name": "poland",
+      "iso2": "PL",
+      "iso3": "POL",
+      "code": 616,
+      "phoneCodes": [
+        "48"
+      ],
+      "langCodes": [
+        "pl"
+      ],
+      "domain": "pl"
+    },
+    {
+      "name": "eswatini",
+      "iso2": "SZ",
+      "iso3": "SWZ",
+      "code": 748,
+      "phoneCodes": [
+        "268"
+      ],
+      "langCodes": [
+        "ss",
+        "en"
+      ],
+      "domain": "sz"
+    },
+    {
+      "name": "botswana",
+      "iso2": "BW",
+      "iso3": "BWA",
+      "code": 72,
+      "phoneCodes": [
+        "267"
+      ],
+      "langCodes": [
+        "en",
+        "tn"
+      ],
+      "domain": "bw"
+    },
+    {
+      "name": "andorra",
+      "iso2": "AD",
+      "iso3": "AND",
+      "code": 20,
+      "phoneCodes": [
+        "376"
+      ],
+      "langCodes": [
+        "ca"
+      ],
+      "domain": "ad"
+    },
+    {
+      "name": "united arab emirates (the)",
+      "iso2": "AE",
+      "iso3": "ARE",
+      "code": 784,
+      "phoneCodes": [
+        "971"
+      ],
+      "langCodes": [
+        "ar"
+      ],
+      "domain": "ae"
+    },
+    {
+      "name": "malawi",
+      "iso2": "MW",
+      "iso3": "MWI",
+      "code": 454,
+      "phoneCodes": [
+        "265"
+      ],
+      "langCodes": [
+        "en",
+        "ny"
+      ],
+      "domain": "mw"
+    },
+    {
+      "name": "tanzania, united republic of",
+      "iso2": "TZ",
+      "iso3": "TZA",
+      "code": 834,
+      "phoneCodes": [
+        "255"
+      ],
+      "langCodes": [
+        "sw",
+        "en"
+      ],
+      "domain": "tz"
+    },
+    {
+      "name": "sweden",
+      "iso2": "SE",
+      "iso3": "SWE",
+      "code": 752,
+      "phoneCodes": [
+        "46"
+      ],
+      "langCodes": [
+        "sv"
+      ],
+      "domain": "se"
+    },
+    {
+      "name": "madagascar",
+      "iso2": "MG",
+      "iso3": "MDG",
+      "code": 450,
+      "phoneCodes": [
+        "261"
+      ],
+      "langCodes": [
+        "mg",
+        "fr"
+      ],
+      "domain": "mg"
+    },
+    {
+      "name": "norfolk island",
+      "iso2": "NF",
+      "iso3": "NFK",
+      "code": 574,
+      "phoneCodes": [],
+      "langCodes": [
+        "en"
+      ],
+      "domain": "nf"
+    },
+    {
+      "name": "turkmenistan",
+      "iso2": "TM",
+      "iso3": "TKM",
+      "code": 795,
+      "phoneCodes": [
+        "993"
+      ],
+      "langCodes": [
+        "ru",
+        "tk"
+      ],
+      "domain": "tm"
+    },
+    {
+      "name": "christmas island",
+      "iso2": "CX",
+      "iso3": "CXR",
+      "code": 162,
+      "phoneCodes": [
+        "61"
+      ],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "bonaire, sint eustatius and saba",
+      "iso2": "BQ",
+      "iso3": "BES",
+      "code": 535,
+      "phoneCodes": [],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "åland islands",
+      "iso2": "AX",
+      "iso3": "ALA",
+      "code": 248,
+      "phoneCodes": [],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "iraq",
+      "iso2": "IQ",
+      "iso3": "IRQ",
+      "code": 368,
+      "phoneCodes": [
+        "964"
+      ],
+      "langCodes": [
+        "ar",
+        "ku"
+      ],
+      "domain": "iq"
+    },
+    {
+      "name": "lao people's democratic republic (the)",
+      "iso2": "LA",
+      "iso3": "LAO",
+      "code": 418,
+      "phoneCodes": [
+        "856"
+      ],
+      "langCodes": [
+        "lo"
+      ],
+      "domain": "la"
+    },
+    {
+      "name": "seychelles",
+      "iso2": "SC",
+      "iso3": "SYC",
+      "code": 690,
+      "phoneCodes": [
+        "248"
+      ],
+      "langCodes": [
+        "crs",
+        "en",
+        "fr"
+      ],
+      "domain": "sc"
+    },
+    {
+      "name": "indonesia",
+      "iso2": "ID",
+      "iso3": "IDN",
+      "code": 360,
+      "phoneCodes": [
+        "62"
+      ],
+      "langCodes": [
+        "id",
+        "jv"
+      ],
+      "domain": "id"
+    },
+    {
+      "name": "nicaragua",
+      "iso2": "NI",
+      "iso3": "NIC",
+      "code": 558,
+      "phoneCodes": [
+        "505"
+      ],
+      "langCodes": [
+        "es"
+      ],
+      "domain": "ni"
+    },
+    {
+      "name": "puerto rico",
+      "iso2": "PR",
+      "iso3": "PRI",
+      "code": 630,
+      "phoneCodes": [
+        "1787",
+        "1939"
+      ],
+      "langCodes": null,
+      "domain": "pr"
+    },
+    {
+      "name": "gibraltar",
+      "iso2": "GI",
+      "iso3": "GIB",
+      "code": 292,
+      "phoneCodes": [
+        "350"
+      ],
+      "langCodes": null,
+      "domain": "gi"
+    },
+    {
+      "name": "equatorial guinea",
+      "iso2": "GQ",
+      "iso3": "GNQ",
+      "code": 226,
+      "phoneCodes": [
+        "240"
+      ],
+      "langCodes": [
+        "pt",
+        "fr",
+        "es"
+      ],
+      "domain": "gq"
+    },
+    {
+      "name": "ethiopia",
+      "iso2": "ET",
+      "iso3": "ETH",
+      "code": 231,
+      "phoneCodes": [
+        "251"
+      ],
+      "langCodes": [
+        "ti",
+        "am",
+        "so",
+        "om"
+      ],
+      "domain": "et"
+    },
+    {
+      "name": "ecuador",
+      "iso2": "EC",
+      "iso3": "ECU",
+      "code": 218,
+      "phoneCodes": [
+        "593"
+      ],
+      "langCodes": [
+        "es"
+      ],
+      "domain": "ec"
+    },
+    {
+      "name": "guinea-bissau",
+      "iso2": "GW",
+      "iso3": "GNB",
+      "code": 624,
+      "phoneCodes": [
+        "245"
+      ],
+      "langCodes": [
+        "pt-CV",
+        "pt"
+      ],
+      "domain": "gw"
+    },
+    {
+      "name": "saudi arabia",
+      "iso2": "SA",
+      "iso3": "SAU",
+      "code": 682,
+      "phoneCodes": [
+        "966"
+      ],
+      "langCodes": [
+        "ar"
+      ],
+      "domain": "sa"
+    },
+    {
+      "name": "mauritania",
+      "iso2": "MR",
+      "iso3": "MRT",
+      "code": 478,
+      "phoneCodes": [
+        "222"
+      ],
+      "langCodes": [
+        "ar",
+        "fr"
+      ],
+      "domain": "mr"
+    },
+    {
+      "name": "spain",
+      "iso2": "ES",
+      "iso3": "ESP",
+      "code": 724,
+      "phoneCodes": [
+        "34"
+      ],
+      "langCodes": [
+        "eu",
+        "gl",
+        "es",
+        "ca"
+      ],
+      "domain": "es"
+    },
+    {
+      "name": "algeria",
+      "iso2": "DZ",
+      "iso3": "DZA",
+      "code": 12,
+      "phoneCodes": [
+        "213"
+      ],
+      "langCodes": [
+        "ar",
+        "zgh",
+        "fr"
+      ],
+      "domain": "dz"
+    },
+    {
+      "name": "american samoa",
+      "iso2": "AS",
+      "iso3": "ASM",
+      "code": 16,
+      "phoneCodes": [
+        "1684"
+      ],
+      "langCodes": [
+        "en",
+        "sm"
+      ],
+      "domain": "as"
+    },
+    {
+      "name": "mozambique",
+      "iso2": "MZ",
+      "iso3": "MOZ",
+      "code": 508,
+      "phoneCodes": [
+        "258"
+      ],
+      "langCodes": [
+        "pt"
+      ],
+      "domain": "mz"
+    },
+    {
+      "name": "cameroon",
+      "iso2": "CM",
+      "iso3": "CMR",
+      "code": 120,
+      "phoneCodes": [
+        "237"
+      ],
+      "langCodes": [
+        "en",
+        "fr"
+      ],
+      "domain": "cm"
+    },
+    {
+      "name": "portugal",
+      "iso2": "PT",
+      "iso3": "PRT",
+      "code": 620,
+      "phoneCodes": [
+        "351"
+      ],
+      "langCodes": [
+        "pt"
+      ],
+      "domain": "pt"
+    },
+    {
+      "name": "costa rica",
+      "iso2": "CR",
+      "iso3": "CRI",
+      "code": 188,
+      "phoneCodes": [
+        "506"
+      ],
+      "langCodes": [
+        "es"
+      ],
+      "domain": "cr"
+    },
+    {
+      "name": "lithuania",
+      "iso2": "LT",
+      "iso3": "LTU",
+      "code": 440,
+      "phoneCodes": [
+        "370"
+      ],
+      "langCodes": [
+        "lt"
+      ],
+      "domain": "lt"
+    },
+    {
+      "name": "virgin islands (u.s.)",
+      "iso2": "VI",
+      "iso3": "VIR",
+      "code": 850,
+      "phoneCodes": [
+        "1340"
+      ],
+      "langCodes": [
+        "en"
+      ],
+      "domain": "vi"
+    },
+    {
+      "name": "south sudan",
+      "iso2": "SS",
+      "iso3": "SSD",
+      "code": 728,
+      "phoneCodes": [
+        "211"
+      ],
+      "langCodes": [
+        "ar",
+        "en"
+      ],
+      "domain": "ss"
+    },
+    {
+      "name": "panama",
+      "iso2": "PA",
+      "iso3": "PAN",
+      "code": 591,
+      "phoneCodes": [
+        "507"
+      ],
+      "langCodes": [
+        "es"
+      ],
+      "domain": "pa"
+    },
+    {
+      "name": "virgin islands (british)",
+      "iso2": "VG",
+      "iso3": "VGB",
+      "code": 92,
+      "phoneCodes": [
+        "1284"
+      ],
+      "langCodes": null,
+      "domain": "vg"
+    },
+    {
+      "name": "lebanon",
+      "iso2": "LB",
+      "iso3": "LBN",
+      "code": 422,
+      "phoneCodes": [
+        "961"
+      ],
+      "langCodes": [
+        "ar"
+      ],
+      "domain": "lb"
+    },
+    {
+      "name": "luxembourg",
+      "iso2": "LU",
+      "iso3": "LUX",
+      "code": 442,
+      "phoneCodes": [
+        "352"
+      ],
+      "langCodes": [
+        "de",
+        "lb",
+        "fr"
+      ],
+      "domain": "lu"
+    },
+    {
+      "name": "mongolia",
+      "iso2": "MN",
+      "iso3": "MNG",
+      "code": 496,
+      "phoneCodes": [
+        "976"
+      ],
+      "langCodes": [
+        "mn"
+      ],
+      "domain": "mn"
+    },
+    {
+      "name": "italy",
+      "iso2": "IT",
+      "iso3": "ITA",
+      "code": 380,
+      "phoneCodes": [
+        "39"
+      ],
+      "langCodes": [
+        "it"
+      ],
+      "domain": "it"
+    },
+    {
+      "name": "finland",
+      "iso2": "FI",
+      "iso3": "FIN",
+      "code": 246,
+      "phoneCodes": [
+        "358"
+      ],
+      "langCodes": [
+        "fi",
+        "sv"
+      ],
+      "domain": "fi"
+    },
+    {
+      "name": "bosnia and herzegovina",
+      "iso2": "BA",
+      "iso3": "BIH",
+      "code": 70,
+      "phoneCodes": [
+        "387"
+      ],
+      "langCodes": [
+        "bs",
+        "hr",
+        "sr"
+      ],
+      "domain": "ba"
+    },
+    {
+      "name": "united kingdom of great britain and northern ireland (the)",
+      "iso2": "GB",
+      "iso3": "GBR",
+      "code": 826,
+      "phoneCodes": [
+        "44"
+      ],
+      "langCodes": [
+        "cy",
+        "en",
+        "gd"
+      ],
+      "domain": "uk"
+    },
+    {
+      "name": "benin",
+      "iso2": "BJ",
+      "iso3": "BEN",
+      "code": 204,
+      "phoneCodes": [
+        "229"
+      ],
+      "langCodes": [
+        "fr"
+      ],
+      "domain": "bj"
+    },
+    {
+      "name": "nigeria",
+      "iso2": "NG",
+      "iso3": "NGA",
+      "code": 566,
+      "phoneCodes": [
+        "234"
+      ],
+      "langCodes": [
+        "yo",
+        "en",
+        "ha",
+        "ig"
+      ],
+      "domain": "ng"
+    },
+    {
+      "name": "russian federation (the)",
+      "iso2": "RU",
+      "iso3": "RUS",
+      "code": 643,
+      "phoneCodes": [
+        "7"
+      ],
+      "langCodes": [
+        "ru"
+      ],
+      "domain": "ru"
+    },
+    {
+      "name": "chad",
+      "iso2": "TD",
+      "iso3": "TCD",
+      "code": 148,
+      "phoneCodes": [
+        "235"
+      ],
+      "langCodes": [
+        "ar",
+        "fr"
+      ],
+      "domain": "td"
+    },
+    {
+      "name": "liberia",
+      "iso2": "LR",
+      "iso3": "LBR",
+      "code": 430,
+      "phoneCodes": [
+        "231"
+      ],
+      "langCodes": [
+        "kpe",
+        "en"
+      ],
+      "domain": "lr"
+    },
+    {
+      "name": "djibouti",
+      "iso2": "DJ",
+      "iso3": "DJI",
+      "code": 262,
+      "phoneCodes": [
+        "253"
+      ],
+      "langCodes": [
+        "ar",
+        "fr"
+      ],
+      "domain": "dj"
+    },
+    {
+      "name": "tajikistan",
+      "iso2": "TJ",
+      "iso3": "TJK",
+      "code": 762,
+      "phoneCodes": [
+        "992"
+      ],
+      "langCodes": [
+        "tg",
+        "ru"
+      ],
+      "domain": "tj"
+    },
+    {
+      "name": "fiji",
+      "iso2": "FJ",
+      "iso3": "FJI",
+      "code": 242,
+      "phoneCodes": [
+        "679"
+      ],
+      "langCodes": [
+        "fj",
+        "hif",
+        "en"
+      ],
+      "domain": "fj"
+    },
+    {
+      "name": "saint martin (french part)",
+      "iso2": "MF",
+      "iso3": "MAF",
+      "code": 663,
+      "phoneCodes": [
+        "590"
+      ],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "isle of man",
+      "iso2": "IM",
+      "iso3": "IMN",
+      "code": 833,
+      "phoneCodes": [
+        "441624"
+      ],
+      "langCodes": null,
+      "domain": "im"
+    },
+    {
+      "name": "singapore",
+      "iso2": "SG",
+      "iso3": "SGP",
+      "code": 702,
+      "phoneCodes": [
+        "65"
+      ],
+      "langCodes": [
+        "ms",
+        "ta",
+        "zh"
+      ],
+      "domain": "sg"
+    },
+    {
+      "name": "mexico",
+      "iso2": "MX",
+      "iso3": "MEX",
+      "code": 484,
+      "phoneCodes": [
+        "52"
+      ],
+      "langCodes": [
+        "es"
+      ],
+      "domain": "mx"
+    },
+    {
+      "name": "samoa",
+      "iso2": "WS",
+      "iso3": "WSM",
+      "code": 882,
+      "phoneCodes": [
+        "685"
+      ],
+      "langCodes": [
+        "sm"
+      ],
+      "domain": "ws"
+    },
+    {
+      "name": "united states minor outlying islands (the)",
+      "iso2": "UM",
+      "iso3": "UMI",
+      "code": 581,
+      "phoneCodes": [],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "côte d'ivoire",
+      "iso2": "CI",
+      "iso3": "CIV",
+      "code": 384,
+      "phoneCodes": [
+        "225"
+      ],
+      "langCodes": [
+        "bci",
+        "fr"
+      ],
+      "domain": "ci"
+    },
+    {
+      "name": "tunisia",
+      "iso2": "TN",
+      "iso3": "TUN",
+      "code": 788,
+      "phoneCodes": [
+        "216"
+      ],
+      "langCodes": [
+        "ar",
+        "fr"
+      ],
+      "domain": "tn"
+    },
+    {
+      "name": "bhutan",
+      "iso2": "BT",
+      "iso3": "BTN",
+      "code": 64,
+      "phoneCodes": [
+        "975"
+      ],
+      "langCodes": [
+        "dz"
+      ],
+      "domain": "bt"
+    },
+    {
+      "name": "uganda",
+      "iso2": "UG",
+      "iso3": "UGA",
+      "code": 800,
+      "phoneCodes": [
+        "256"
+      ],
+      "langCodes": [
+        "sw",
+        "en"
+      ],
+      "domain": "ug"
+    },
+    {
+      "name": "uruguay",
+      "iso2": "UY",
+      "iso3": "URY",
+      "code": 858,
+      "phoneCodes": [
+        "598"
+      ],
+      "langCodes": [
+        "es"
+      ],
+      "domain": "uy"
+    },
+    {
+      "name": "gabon",
+      "iso2": "GA",
+      "iso3": "GAB",
+      "code": 266,
+      "phoneCodes": [
+        "241"
+      ],
+      "langCodes": [
+        "fr"
+      ],
+      "domain": "ga"
+    },
+    {
+      "name": "kyrgyzstan",
+      "iso2": "KG",
+      "iso3": "KGZ",
+      "code": 417,
+      "phoneCodes": [
+        "996"
+      ],
+      "langCodes": [
+        "ru",
+        "ky"
+      ],
+      "domain": "kg"
+    },
+    {
+      "name": "pakistan",
+      "iso2": "PK",
+      "iso3": "PAK",
+      "code": 586,
+      "phoneCodes": [
+        "92"
+      ],
+      "langCodes": [
+        "pa",
+        "sd",
+        "ps",
+        "skr",
+        "bal",
+        "ur"
+      ],
+      "domain": "pk"
+    },
+    {
+      "name": "cabo verde",
+      "iso2": "CV",
+      "iso3": "CPV",
+      "code": 132,
+      "phoneCodes": [
+        "238"
+      ],
+      "langCodes": [
+        "pt",
+        "kea"
+      ],
+      "domain": "cv"
+    },
+    {
+      "name": "martinique",
+      "iso2": "MQ",
+      "iso3": "MTQ",
+      "code": 474,
+      "phoneCodes": [],
+      "langCodes": null,
+      "domain": "mq"
+    },
+    {
+      "name": "netherlands (the)",
+      "iso2": "NL",
+      "iso3": "NLD",
+      "code": 528,
+      "phoneCodes": [
+        "31"
+      ],
+      "langCodes": [
+        "nl"
+      ],
+      "domain": "nl"
+    },
+    {
+      "name": "macao",
+      "iso2": "MO",
+      "iso3": "MAC",
+      "code": 446,
+      "phoneCodes": [
+        "853"
+      ],
+      "langCodes": null,
+      "domain": "mo"
+    },
+    {
+      "name": "kosovo",
+      "iso2": "XK",
+      "iso3": "XXK",
+      "code": 383,
+      "phoneCodes": [
+        "383"
+      ],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "mayotte",
+      "iso2": "YT",
+      "iso3": "MYT",
+      "code": 175,
+      "phoneCodes": [
+        "262"
+      ],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "georgia",
+      "iso2": "GE",
+      "iso3": "GEO",
+      "code": 268,
+      "phoneCodes": [
+        "995"
+      ],
+      "langCodes": [
+        "ka"
+      ],
+      "domain": "ge"
+    },
+    {
+      "name": "yemen",
+      "iso2": "YE",
+      "iso3": "YEM",
+      "code": 887,
+      "phoneCodes": [
+        "967"
+      ],
+      "langCodes": null,
+      "domain": "ye"
+    },
+    {
+      "name": "argentina",
+      "iso2": "AR",
+      "iso3": "ARG",
+      "code": 32,
+      "phoneCodes": [
+        "54"
+      ],
+      "langCodes": [
+        "es"
+      ],
+      "domain": "ar"
+    },
+    {
+      "name": "niger (the)",
+      "iso2": "NE",
+      "iso3": "NER",
+      "code": 562,
+      "phoneCodes": [
+        "227"
+      ],
+      "langCodes": [
+        "ha",
+        "fr"
+      ],
+      "domain": "ne"
+    },
+    {
+      "name": "anguilla",
+      "iso2": "AI",
+      "iso3": "AIA",
+      "code": 660,
+      "phoneCodes": [
+        "1264"
+      ],
+      "langCodes": null,
+      "domain": "ai"
+    },
+    {
+      "name": "jordan",
+      "iso2": "JO",
+      "iso3": "JOR",
+      "code": 400,
+      "phoneCodes": [
+        "962"
+      ],
+      "langCodes": [
+        "ar"
+      ],
+      "domain": "jo"
+    },
+    {
+      "name": "viet nam",
+      "iso2": "VN",
+      "iso3": "VNM",
+      "code": 704,
+      "phoneCodes": [
+        "84"
+      ],
+      "langCodes": [
+        "vi"
+      ],
+      "domain": "vn"
+    },
+    {
+      "name": "burundi",
+      "iso2": "BI",
+      "iso3": "BDI",
+      "code": 108,
+      "phoneCodes": [
+        "257"
+      ],
+      "langCodes": [
+        "rn",
+        "fr"
+      ],
+      "domain": "bi"
+    },
+    {
+      "name": "iran (islamic republic of)",
+      "iso2": "IR",
+      "iso3": "IRN",
+      "code": 364,
+      "phoneCodes": [
+        "98"
+      ],
+      "langCodes": [
+        "az",
+        "ku",
+        "fa"
+      ],
+      "domain": "ir"
+    },
+    {
+      "name": "slovakia",
+      "iso2": "SK",
+      "iso3": "SVK",
+      "code": 703,
+      "phoneCodes": [
+        "421"
+      ],
+      "langCodes": [
+        "sk"
+      ],
+      "domain": "sk"
+    },
+    {
+      "name": "belgium",
+      "iso2": "BE",
+      "iso3": "BEL",
+      "code": 56,
+      "phoneCodes": [
+        "32"
+      ],
+      "langCodes": [
+        "de",
+        "fr",
+        "nl"
+      ],
+      "domain": "be"
+    },
+    {
+      "name": "uzbekistan",
+      "iso2": "UZ",
+      "iso3": "UZB",
+      "code": 860,
+      "phoneCodes": [
+        "998"
+      ],
+      "langCodes": [
+        "ru",
+        "uz"
+      ],
+      "domain": "uz"
+    },
+    {
+      "name": "saint barthélemy",
+      "iso2": "BL",
+      "iso3": "BLM",
+      "code": 652,
+      "phoneCodes": [
+        "590"
+      ],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "svalbard and jan mayen",
+      "iso2": "SJ",
+      "iso3": "SJM",
+      "code": 744,
+      "phoneCodes": [
+        "47"
+      ],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "grenada",
+      "iso2": "GD",
+      "iso3": "GRD",
+      "code": 308,
+      "phoneCodes": [
+        "1473"
+      ],
+      "langCodes": [
+        "en"
+      ],
+      "domain": "gd"
+    },
+    {
+      "name": "sao tome and principe",
+      "iso2": "ST",
+      "iso3": "STP",
+      "code": 678,
+      "phoneCodes": [
+        "239"
+      ],
+      "langCodes": [
+        "pt"
+      ],
+      "domain": "st"
+    },
+    {
+      "name": "guam",
+      "iso2": "GU",
+      "iso3": "GUM",
+      "code": 316,
+      "phoneCodes": [
+        "1671"
+      ],
+      "langCodes": [
+        "ch",
+        "en"
+      ],
+      "domain": null
+    },
+    {
+      "name": "cocos (keeling) islands (the)",
+      "iso2": "CC",
+      "iso3": "CCK",
+      "code": 166,
+      "phoneCodes": [
+        "61"
+      ],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "faroe islands (the)",
+      "iso2": "FO",
+      "iso3": "FRO",
+      "code": 234,
+      "phoneCodes": [
+        "298"
+      ],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "antarctica",
+      "iso2": "AQ",
+      "iso3": "ATA",
+      "code": 10,
+      "phoneCodes": [
+        "672"
+      ],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "eritrea",
+      "iso2": "ER",
+      "iso3": "ERI",
+      "code": 232,
+      "phoneCodes": [
+        "291"
+      ],
+      "langCodes": [
+        "ar",
+        "ti"
+      ],
+      "domain": "er"
+    },
+    {
+      "name": "falkland islands (the) [malvinas]",
+      "iso2": "FK",
+      "iso3": "FLK",
+      "code": 238,
+      "phoneCodes": [
+        "500"
+      ],
+      "langCodes": null,
+      "domain": "fk"
+    },
+    {
+      "name": "croatia",
+      "iso2": "HR",
+      "iso3": "HRV",
+      "code": 191,
+      "phoneCodes": [
+        "385"
+      ],
+      "langCodes": [
+        "hr"
+      ],
+      "domain": "hr"
+    },
+    {
+      "name": "heard island and mcdonald islands",
+      "iso2": "HM",
+      "iso3": "HMD",
+      "code": 334,
+      "phoneCodes": [],
+      "langCodes": null,
+      "domain": null
+    },
+    {
+      "name": "niue",
+      "iso2": "NU",
+      "iso3": "NIU",
+      "code": 570,
+      "phoneCodes": [
+        "683"
+      ],
+      "langCodes": [
+        "en",
+        "niu"
+      ],
+      "domain": "nu"
+    },
+    {
+      "name": "nepal",
+      "iso2": "NP",
+      "iso3": "NPL",
+      "code": 524,
+      "phoneCodes": [
+        "977"
+      ],
+      "langCodes": [
+        "ne"
+      ],
+      "domain": "np"
+    },
+    {
+      "name": "brunei darussalam",
+      "iso2": "BN",
+      "iso3": "BRN",
+      "code": 96,
+      "phoneCodes": [
+        "673"
+      ],
+      "langCodes": [
+        "ms"
+      ],
+      "domain": "bn"
+    },
+    {
+      "name": "morocco",
+      "iso2": "MA",
+      "iso3": "MAR",
+      "code": 504,
+      "phoneCodes": [
+        "212"
+      ],
+      "langCodes": [
+        "ar",
+        "tzm",
+        "fr"
+      ],
+      "domain": "ma"
+    },
+    {
+      "name": "tokelau",
+      "iso2": "TK",
+      "iso3": "TKL",
+      "code": 772,
+      "phoneCodes": [
+        "690"
+      ],
+      "langCodes": [
+        "tk",
+        "en"
+      ],
+      "domain": "tk"
+    },
+    {
+      "name": "bermuda",
+      "iso2": "BM",
+      "iso3": "BMU",
+      "code": 60,
+      "phoneCodes": [
+        "1441"
+      ],
+      "langCodes": null,
+      "domain": "bm"
+    },
+    {
+      "name": "sudan (the)",
+      "iso2": "SD",
+      "iso3": "SDN",
+      "code": 729,
+      "phoneCodes": [
+        "249"
+      ],
+      "langCodes": [
+        "ar",
+        "en"
+      ],
+      "domain": "sd"
+    },
+    {
+      "name": "guadeloupe",
+      "iso2": "GP",
+      "iso3": "GLP",
+      "code": 312,
+      "phoneCodes": [],
+      "langCodes": null,
+      "domain": "gp"
+    },
+    {
+      "name": "suriname",
+      "iso2": "SR",
+      "iso3": "SUR",
+      "code": 740,
+      "phoneCodes": [
+        "597"
+      ],
+      "langCodes": [
+        "nl",
+        "srn"
+      ],
+      "domain": "sr"
+    },
+    {
+      "name": "french guiana",
+      "iso2": "GF",
+      "iso3": "GUF",
+      "code": 254,
+      "phoneCodes": [],
+      "langCodes": null,
+      "domain": "gf"
+    },
+    {
+      "name": "romania",
+      "iso2": "RO",
+      "iso3": "ROU",
+      "code": 642,
+      "phoneCodes": [
+        "40"
+      ],
+      "langCodes": [
+        "ro"
+      ],
+      "domain": "ro"
+    },
+    {
+      "name": "palestine, state of",
+      "iso2": "PS",
+      "iso3": "PSE",
+      "code": 275,
+      "phoneCodes": [
+        "970"
+      ],
+      "langCodes": null,
+      "domain": "ps"
+    },
+    {
+      "name": "moldova (the republic of)",
+      "iso2": "MD",
+      "iso3": "MDA",
+      "code": 498,
+      "phoneCodes": [
+        "373"
+      ],
+      "langCodes": [
+        "ru",
+        "ro"
+      ],
+      "domain": "md"
+    },
+    {
+      "name": "angola",
+      "iso2": "AO",
+      "iso3": "AGO",
+      "code": 24,
+      "phoneCodes": [
+        "244"
+      ],
+      "langCodes": [
+        "pt"
+      ],
+      "domain": "ao"
+    },
+    {
+      "name": "new zealand",
+      "iso2": "NZ",
+      "iso3": "NZL",
+      "code": 554,
+      "phoneCodes": [
+        "64"
+      ],
+      "langCodes": [
+        "en",
+        "mi"
+      ],
+      "domain": "nz"
+    },
+    {
+      "name": "gambia (the)",
+      "iso2": "GM",
+      "iso3": "GMB",
+      "code": 270,
+      "phoneCodes": [
+        "220"
+      ],
+      "langCodes": [
+        "en",
+        "mnk"
+      ],
+      "domain": "gm"
+    },
+    {
+      "name": "sierra leone",
+      "iso2": "SL",
+      "iso3": "SLE",
+      "code": 694,
+      "phoneCodes": [
+        "232"
+      ],
+      "langCodes": [
+        "kri",
+        "en"
+      ],
+      "domain": "sl"
+    },
+    {
+      "name": "latvia",
+      "iso2": "LV",
+      "iso3": "LVA",
+      "code": 428,
+      "phoneCodes": [
+        "371"
+      ],
+      "langCodes": [
+        "lv"
+      ],
+      "domain": "lv"
+    },
+    {
+      "name": "kazakhstan",
+      "iso2": "KZ",
+      "iso3": "KAZ",
+      "code": 398,
+      "phoneCodes": [
+        "7"
+      ],
+      "langCodes": [
+        "kk",
+        "ru"
+      ],
+      "domain": "kz"
+    },
+    {
+      "name": "korea (the democratic people's republic of)",
+      "iso2": "KP",
+      "iso3": "PRK",
+      "code": 408,
+      "phoneCodes": [
+        "850"
+      ],
+      "langCodes": null,
+      "domain": "kp"
+    },
+    {
+      "name": "congo (the democratic republic of the)",
+      "iso2": "CD",
+      "iso3": "COD",
+      "code": 180,
+      "phoneCodes": [
+        "243"
+      ],
+      "langCodes": null,
+      "domain": "cd"
+    },
+    {
+      "name": "egypt",
+      "iso2": "EG",
+      "iso3": "EGY",
+      "code": 818,
+      "phoneCodes": [
+        "20"
+      ],
+      "langCodes": [
+        "ar"
+      ],
+      "domain": "eg"
+    },
+    {
+      "name": "malta",
+      "iso2": "MT",
+      "iso3": "MLT",
+      "code": 470,
+      "phoneCodes": [
+        "356"
+      ],
+      "langCodes": [
+        "mt",
+        "en"
+      ],
+      "domain": "mt"
+    },
+    {
+      "name": "iceland",
+      "iso2": "IS",
+      "iso3": "ISL",
+      "code": 352,
+      "phoneCodes": [
+        "354"
+      ],
+      "langCodes": [
+        "is"
+      ],
+      "domain": "is"
+    },
+    {
+      "name": "myanmar",
+      "iso2": "MM",
+      "iso3": "MMR",
+      "code": 104,
+      "phoneCodes": [
+        "95"
+      ],
+      "langCodes": [
+        "my"
+      ],
+      "domain": "mm"
+    },
+    {
+      "name": "montenegro",
+      "iso2": "ME",
+      "iso3": "MNE",
+      "code": 499,
+      "phoneCodes": [
+        "382"
+      ],
+      "langCodes": [
+        "me"
+      ],
+      "domain": "me"
+    },
+    {
+      "name": "papua new guinea",
+      "iso2": "PG",
+      "iso3": "PNG",
+      "code": 598,
+      "phoneCodes": [
+        "675"
+      ],
+      "langCodes": [
+        "ho",
+        "multiple",
+        "en",
+        "tpi"
+      ],
+      "domain": "pg"
+    },
+    {
+      "name": "tuvalu",
+      "iso2": "TV",
+      "iso3": "TUV",
+      "code": 798,
+      "phoneCodes": [
+        "688"
+      ],
+      "langCodes": [
+        "en",
+        "tvl"
+      ],
+      "domain": "tv"
+    },
+    {
+      "name": "qatar",
+      "iso2": "QA",
+      "iso3": "QAT",
+      "code": 634,
+      "phoneCodes": [
+        "974"
+      ],
+      "langCodes": [
+        "ar"
+      ],
+      "domain": "qa"
+    },
+    {
+      "name": "wallis and futuna",
+      "iso2": "WF",
+      "iso3": "WLF",
+      "code": 876,
+      "phoneCodes": [
+        "681"
+      ],
+      "langCodes": [
+        "fr"
+      ],
+      "domain": null
+    },
+    {
+      "name": "saint vincent and the grenadines",
+      "iso2": "VC",
+      "iso3": "VCT",
+      "code": 670,
+      "phoneCodes": [
+        "1784"
+      ],
+      "langCodes": [
+        "en"
+      ],
+      "domain": "vc"
+    },
+    {
+      "name": "tonga",
+      "iso2": "TO",
+      "iso3": "TON",
+      "code": 776,
+      "phoneCodes": [
+        "676"
+      ],
+      "langCodes": [
+        "en",
+        "to"
+      ],
+      "domain": "to"
+    },
+    {
+      "name": "barbados",
+      "iso2": "BB",
+      "iso3": "BRB",
+      "code": 52,
+      "phoneCodes": [
+        "1246"
+      ],
+      "langCodes": [
+        "en"
+      ],
+      "domain": "bb"
+    },
+    {
+      "name": "new caledonia",
+      "iso2": "NC",
+      "iso3": "NCL",
+      "code": 540,
+      "phoneCodes": [
+        "687"
+      ],
+      "langCodes": [
+        "multiple",
+        "fr"
+      ],
+      "domain": "nc"
+    }
+]
